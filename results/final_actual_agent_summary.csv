@@ -1,0 +1,3 @@
+matchup,games,valid_games,a_wins,b_wins,draws,errors,a_win_rate,wilson_low,wilson_high,mean_turns,mean_decisions,mean_duration_ms
+search_vs_official_abomasnow,500,500,263,237,0,0,0.526,0.4822016483694956,0.5694018859265038,9.172,86.022,31.915995656047016
+search_vs_official_lucario,500,500,250,250,0,0,0.5,0.4563412653024843,0.5436587346975157,11.512,140.802,53.919320571934804

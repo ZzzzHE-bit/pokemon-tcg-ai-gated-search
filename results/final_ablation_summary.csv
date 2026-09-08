@@ -1,0 +1,3 @@
+matchup,games,valid_games,a_wins,b_wins,draws,errors,a_win_rate,wilson_low,wilson_high,mean_turns,mean_decisions,mean_duration_ms
+hybrid_vs_native_crustle_stress,500,500,420,80,0,0,0.84,0.8052918208363085,0.8695236276498359,7.672,59.356,14.606756008928642
+hybrid_vs_official_dragapult,500,500,283,217,0,0,0.566,0.5222171596922527,0.6087764273668224,11.58,150.376,50.859943987219594
